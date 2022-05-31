@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: zhongge545@gmail.com
+Date: Tue, 24 May 2022 08:38:45 -0000
+Message-ID: <165338152528.6552.16311104032872378507@DESKTOP-2JT66GV>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/password/reset/confirm/Mg/b5xq4l-96fa006545e7a472b0f3b89ddd99ad38
+
+Your username, in case you’ve forgotten: zhongge545@gmail.com
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
